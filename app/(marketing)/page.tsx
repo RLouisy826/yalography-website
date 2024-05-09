@@ -205,8 +205,7 @@ export default function HomePage() {
           Start your journey
         </Title>
         <p className="mb-8 text-xl w-11/12 lg:[width:clamp(36ch,90%,65ch)] text-center text-gray-600 dark:text-gray-200">
-          Reprehenderit pariatur aliqua Lorem adipisicing excepteur sint officia nulla. Et sint sit id sit
-          officia irure aliquip sit aliquip ad.
+          Yalography, we capture your best moments.
         </p>
         <Button>Book session</Button>
       </section>
